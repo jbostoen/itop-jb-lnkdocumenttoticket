@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension format="1.0">
 	<extension_code><![CDATA[jb-lnkdocumenttoticket]]></extension_code>
-	<company><![CDATA[]]></company>
+	<company></company>
 	<author><![CDATA[Jeffrey Bostoen]]></author>
 	<label><![CDATA[Datamodel: link Document to Ticket]]></label>
 	<description><![CDATA[Adds a link between Document and Ticket]]></description>
-	<version><![CDATA[2.6.201125]]></version>
-	<release_date><![CDATA[2020-11-25]]></release_date>
+	<version>2.6.201125</version>
+	<release_date>2020-11-25</release_date>
 	<version_description><![CDATA[]]></version_description>
-	<itop_version_min><![CDATA[2.6.0]]></itop_version_min>
+	<itop_version_min>2.6.0</itop_version_min>
 	<status>stable</status>
 	<mandatory>false</mandatory>
 	<more_info_url><![CDATA[https://jbostoen.github.io/itop-extensions-documentation/]]></more_info_url>
